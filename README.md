@@ -1,6 +1,6 @@
 # route-auth
 
-boilerplate de como ter rodar rotas privadas(dependentes de autenticação)
+boilerplate de como ter rotas privadas(dependentes de autenticação)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
